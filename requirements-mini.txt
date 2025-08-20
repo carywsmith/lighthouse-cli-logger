@@ -1,0 +1,2 @@
+# Minimal install (Modbus only)
+pymodbus>=2.5,<4
