@@ -1,0 +1,3 @@
+# Full install (Modbus + InfluxDB v2 client)
+pymodbus>=2.5,<4
+influxdb-client>=1.41
